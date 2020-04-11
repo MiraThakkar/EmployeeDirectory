@@ -1,0 +1,10 @@
+.header {
+    height: 80px;
+    background: rgba(1, 5, 27, 0.952);
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 2px solid rgb(197, 2, 2);
+    padding: 5px;
+  }
+
